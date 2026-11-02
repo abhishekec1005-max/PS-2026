@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MyFootprints")(type "KiCad")(uri "D:/Project_ Seminar_SS2026/KiCad_Board_Design/MyFootprints")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "AD8031ARZ")(type "KiCad")(uri "${KIPRJMOD}/AD8031ARZ.pretty")(options "")(descr ""))
+)
